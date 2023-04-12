@@ -21,11 +21,11 @@
 ## Technologies
 
 <ul>
+    <li>Vite</li>
     <li>JavaScript</li>
     <li>TypeScript</li>
     <li>React</li>
-    <li>CSS</li>
-    <li>HTML</li>
+    <li>CSS Modules</li>
 </ul>
 
 #
